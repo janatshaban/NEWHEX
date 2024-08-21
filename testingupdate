@@ -1,5 +1,5 @@
 {
-"UDPserver":"testerserver",
-"obfs":"testobfs",
-"auth":"tesauth"
+"UDPserver":"udp.royaltunnel.com",
+"obfs":"royalvpn",
+"auth":"royal"
 }
