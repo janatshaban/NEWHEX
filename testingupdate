@@ -1,28 +1,12 @@
 [
     {
-        "UDPserver": "192.168.1.1",
-        "obfs": "tls1.2_ticket_auth",
-        "auth": "basic"
+        "UDPserver": "udp.royaltunnel.com",
+        "obfs": "royalvn",
+        "auth": "royal"
     },
     {
-        "UDPserver": "192.168.1.2",
-        "obfs": "tls1.2_ticket_fast",
-        "auth": "token"
-    },
-    {
-        "UDPserver": "192.168.1.3",
-        "obfs": "http_simple",
-        "auth": "none"
-    },
-    {
-        "UDPserver": "192.168.1.4",
-        "obfs": "tls1.3_ticket_auth",
-        "auth": "basic"
-    },
-    {
-        "UDPserver": "192.168.1.5",
-        "obfs": "tls1.2_ticket_auth",
-        "auth": "token"
+        "UDPserver": "king.royatunnel.com",
+        "obfs": "kobe",
+        "auth": "noorislam:12"
     }
 ]
-
