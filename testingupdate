@@ -1,12 +1,12 @@
 [
     {
         "UDPserver": "udp.royaltunnel.com",
-        "obfs": "royalvn",
+        "obfs": "114,97,112,116,117,114,101,116,101,99,104",
         "auth": "royal"
     },
     {
         "UDPserver": "king.royatunnel.com",
-        "obfs": "kobe",
+        "obfs": "106,97,110,97,116,100,101,118",
         "auth": "noorislam:12"
     }
 ]
