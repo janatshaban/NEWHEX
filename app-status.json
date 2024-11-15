@@ -1,0 +1,16 @@
+{
+  "packages": [
+    {
+      "package_name": "noob.x.artunnelgen",
+      "enabled": false
+    },
+    {
+      "package_name": "com.example.app2",
+      "enabled": false
+    },
+    {
+      "package_name": "com.example.app3",
+      "enabled": true
+    }
+  ]
+}
