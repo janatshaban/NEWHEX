@@ -2,7 +2,7 @@
   "packages": [
     {
       "package_name": "noob.x.artunnelgen",
-      "enabled": false
+      "enabled": true
     },
     {
       "package_name": "com.example.app2",
