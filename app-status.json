@@ -6,7 +6,7 @@
     },
     {
       "package_name": "noob.x.segouvpngen",
-      "enabled": false
+      "enabled": true
     },
     {
       "package_name": "com.example.app3",
